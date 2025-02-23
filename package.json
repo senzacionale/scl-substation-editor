@@ -4,10 +4,10 @@
   "license": "Apache-2.0",
   "author": "oscd-save",
   "version": "0.0.0",
-  "main": "dist/oscd-save.js",
-  "module": "dist/oscd-save.js",
+  "main": "output/oscd-save.js",
+  "module": "output/oscd-save.js",
   "exports": {
-    ".": "./dist/oscd-save.js"
+    ".": "./output/oscd-save.js"
   },
   "scripts": {
     "analyze": "cem analyze --litelement",
